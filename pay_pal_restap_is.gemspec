@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'paypal-sdk'
-  s.version = '1.4.9'
+  s.version = '1.5.1'
   s.summary = 'qaa'
   s.description = 'test'
   s.authors = ['qa']
